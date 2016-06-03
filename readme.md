@@ -1,4 +1,4 @@
-# ![nodely](public/images/logo.png){ float: right; }
+# ![nodely](public/images/logo.png)
 
 
 ## Synopsis
