@@ -19,7 +19,7 @@ Thought about making a starter template that is quite handy to start any project
 
 ## Contributor(s)
 
-* Zubair Ahmed
+* Zubair Ahmed (https://github.com/zubair1024)
 
 ## License
 
