@@ -17,7 +17,7 @@ Thought about making a starter template that is quite handy to start any project
 * MongoDB
 * Mongoose
 
-## Contributor
+## Contributor(s)
 
 * Zubair Ahmed
 
