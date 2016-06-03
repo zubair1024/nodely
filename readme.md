@@ -9,7 +9,7 @@ Nodely is a start skeleton made from NodeJs consisting of ExpressJs, Passport, M
 
 Thought about making a starter template that is quite handy to start any project
 
-## API Reference
+## Reference
 
 * NodeJS (https://github.com/nodejs)
 * ExpressJs (https://github.com/expressjs/express)
