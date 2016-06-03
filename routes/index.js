@@ -1,12 +1,18 @@
+/**
+ * Essentials
+ */
 var express = require('express');
 var passport = require('passport');
 var router = express.Router();
 
+/**
+ * Models
+ */
 var Users = require('../db/models/user');
 
 
 router.get('/', function (req, res, next) {
-    res.render('index', {title: 'Express'});
+    res.render('index', {title: 'App'});
 });
 
 //router.get('/user/:id', function (req, res, next) {
