@@ -1,4 +1,4 @@
-# ![nodely](public/images/Nodely-logo.png)
+# ![nodely](public/images/logo.png)
 
 
 ## Synopsis
