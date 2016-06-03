@@ -11,11 +11,11 @@ Thought about making a starter template that is quite handy to start any project
 
 ## API Reference
 
-* NodeJS
-* ExpressJs
-* Passport
-* MongoDB
-* Mongoose
+* NodeJS (https://github.com/nodejs)
+* ExpressJs (https://github.com/expressjs/express)
+* Passport (http://passportjs.org/)
+* MongoDB (https://www.mongodb.com/)
+* Mongoose (http://mongoosejs.com/)
 
 ## Contributor(s)
 
