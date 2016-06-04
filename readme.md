@@ -7,7 +7,7 @@ Nodely is a start skeleton made from NodeJs consisting of ExpressJs, Passport, M
 
 ## Motivation
 
-Thought about making a starter template that is quite handy to start any project
+Making a handy starter template for a node project agnostic to the context of the application.
 
 ## Reference
 
